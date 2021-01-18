@@ -9,4 +9,5 @@ A mobile job portal I'm working on. At the moment I write this, it's frontend on
 
 # Platzi learning app:
 Some kind of graphic interface that uses columns, rows and stacks. Made while studying the Platzi's course.
+
 ![](https://i.imgur.com/Oeq4Zg6.png)
